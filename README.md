@@ -23,6 +23,7 @@
 - [Resumo de HTML](https://htmlcheatsheet.com)
 
 ## Conteúdos
+- [Roadmap Dev .NET](https://awesomeopensource.com/project/MoienTajik/AspNetCore-Developer-Roadmap)
 - [Coleções e estruturas de dados C# - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/collections/)
 - [Algoritmo e Estrutura de dados](https://www.programiz.com/dsa)
 - [Awesome Dotnet Core](https://github.com/thangchung/awesome-dotnet-core)
