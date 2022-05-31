@@ -9,6 +9,7 @@
 # Documentações 📚
 - [C# - Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [.NET - Microsoft](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
+- [ASP.NET - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 - [MAUI - Microsoft](https://docs.microsoft.com/en-us/dotnet/maui/)
 - [Documentações em geral - Microsoft](https://docs.microsoft.com/en-us/documentation/)
 
@@ -27,4 +28,6 @@
 - [Algoritmo e Estrutura de dados](https://www.programiz.com/dsa)
 - [Awesome Dotnet Core](https://github.com/thangchung/awesome-dotnet-core)
 - [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
+- [Sintaxe Razor](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
 - [Questões de entrevista C# e outras linguagens](https://github.com/DopplerHQ/awesome-interview-questions#c-2)
+- [O que é uma API](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
